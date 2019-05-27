@@ -3,7 +3,7 @@
 
 In 1837, Charles Babbage first described the [Analytical Engine](https://en.wikipedia.org/wiki/Analytical_Engine) which would have been the first general purpose computer..
 Unfortunately, it was never build, but the design was documented by Luigi
-Menabrea and Ada Lovelace in the 1843 paper "The Sketch of The Analytical Engine."
+Menabrea and Ada Lovelace in the 1842 paper "The Sketch of The Analytical Engine."
 
 Menabrea and Lovelace are great authors who do a great job at describing how the
 difference engine and analytical engines work. I'd highly suggest reading the
