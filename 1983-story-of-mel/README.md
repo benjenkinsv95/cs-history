@@ -7,7 +7,9 @@ The story describes Mel's attempt to port a blackjack program from the LGP-30 to
 
 ## Oral Tradition in Software
 
-Before reading The Story of Mel, I highly recommend Bryan Cantrill's excelent video covering [Oral Tradition in Software.](https://www.youtube.com/watch?v=4PaWFYm0kEw&feature=youtu.be&t=534)
+Before reading The Story of Mel, I highly recommend Bryan Cantrill's excelent video covering Oral Tradition in Software.
+
+[![Oral Tradition in Software.](https://img.youtube.com/vi/4PaWFYm0kEw/0.jpg)](https://www.youtube.com/watch?v=4PaWFYm0kEw&feature=youtu.be&t=534)
 
 
 ### RPC 4000
