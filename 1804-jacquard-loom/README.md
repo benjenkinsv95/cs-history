@@ -9,7 +9,7 @@ of the Analyical Engine. As such, the Jacquard Loom is frequently referenced in
 ## Interesting Facts
 Below is a self portrait of Joseph Jacquard woven in silk on a Jacquard loom.
 
-![jacquard self portrait](jacquard-woven-self-portrait.jpg)
+![jacquard self portrait](src/jacquard-woven-self-portrait.jpg)
 
 Charles Babbage was so fascinated by the portrait that he actually owned a copy.
 
@@ -19,4 +19,4 @@ Charles Babbage was so fascinated by the portrait that he actually owned a copy.
 * [1] Swade, The Cogwheel Brain. Charles Babbage and the Quest to Build the First Computer [2000] 107-8
 * [Cloth Facing Image Source](https://tissura.com/articles/jacquard-fabrics)
 * [Punch Card Facing Image Source](http://addiator.blogspot.com/2011/10/jacquards-loom-and-stored-programme.html)
-* [Woven Self Portrait Image Source](http://www.historyofinformation.com/image.php?id=469)
+* [Woven Self Portrait Image Source](https://www.metmuseum.org/toah/works-of-art/31.124/)

@@ -14,7 +14,7 @@ Before reading The Story of Mel, I highly recommend Bryan Cantrill's excelent vi
 
 ### RPC 4000
 
-![rpc-4000](rpc4000_original.jpg)
+![rpc-4000](src/rpc4000_original.jpg)
 
 ## References
 * Mel Kaye Image Source: Group photo from the August 1956 Librazette
