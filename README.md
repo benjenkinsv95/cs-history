@@ -4,14 +4,16 @@ Here are a collection of backgrounds I've created to help spark interest in Comp
 I leave them on the projector during breaks so that students can learn some of the
 weirder and fun parts of computer science history. Here's a small sampling.
 
-#### The Jacquard Loom
+#### 1804 - The Jacquard Loom
 
-![jacquard loom](1804-jacquard-loom/jacquard-loom.jpg)
+![jacquard loom](1804-jacquard-loom/1804-jacquard-loom.jpg)
 
-#### The Analytical Engine
+![jacquard loom](1804-jacquard-loom/1804-jacquard-self-portrait.jpg)
 
-![weave analytical engine](1842-sketch-of-analytical-engine/analytical-engine.jpg)
+#### 1842 - The Analytical Engine
 
-#### The First Computer Mouse
+![weave analytical engine](1842-sketch-of-analytical-engine/1842-analytical-engine-algebraical-patterns.jpg)
 
-![mouse origin](1968-demo-mouse/mouse-origin.jpg)
+#### 1968 - The First Computer Mouse
+
+![mouse origin](1968-demo-mouse/1968-demo-the-mouse.jpg)
