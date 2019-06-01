@@ -1,5 +1,5 @@
 # Weaving Algebraical Patterns
-![weave analytical engine](analytical-engine.jpg)
+![weave analytical engine](1842-analytical-engine-algebraical-patterns.jpg)
 
 In 1837, Charles Babbage first described the [Analytical Engine](https://en.wikipedia.org/wiki/Analytical_Engine) which would have been the first general purpose computer..
 Unfortunately, it was never build, but the design was documented by Luigi

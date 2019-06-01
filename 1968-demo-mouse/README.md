@@ -1,5 +1,5 @@
 # Mouse Origin
-![mouse origin](mouse-origin.jpg)
+![mouse origin](1968-demo-the-mouse.jpg)
 
 The first mouse was shown at the ["Mother of All Demos"](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos) by Doug Engelbart.
 

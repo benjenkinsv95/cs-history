@@ -1,5 +1,5 @@
 # Jacquard Loom
-![jacquard loom](jacquard-loom.jpg)
+![jacquard loom](1804-jacquard-loom.jpg)
 
 The [Jacquard loom](https://en.wikipedia.org/wiki/Jacquard_loom) was used to weave intricate textiles using punch cards to help
 automate the process. Automation via punch cards was crucial for Babbage's design
@@ -9,7 +9,7 @@ of the Analyical Engine. As such, the Jacquard Loom is frequently referenced in
 ## Interesting Facts
 Below is a self portrait of Joseph Jacquard woven in silk on a Jacquard loom.
 
-![jacquard self portrait](jacquard-self-portrait.jpg)
+![jacquard self portrait](1804-jacquard-self-portrait.jpg)
 
 Charles Babbage was so fascinated by the portrait that he actually owned a copy.
 
