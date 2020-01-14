@@ -2,7 +2,7 @@
 ![weave analytical engine](1842-analytical-engine-algebraical-patterns.jpg)
 
 In 1837, Charles Babbage first described the [Analytical Engine](https://en.wikipedia.org/wiki/Analytical_Engine) which would have been the first general purpose computer..
-Unfortunately, it was never build, but the design was documented by Luigi
+Unfortunately, it was never built, but the design was documented by Luigi
 Menabrea and Ada Lovelace in the 1842 paper "The Sketch of The Analytical Engine."
 
 Menabrea and Lovelace are great authors who do a great job at describing how the
